@@ -1,0 +1,1 @@
+http://你部署二进制或docker的IP:35455/tv.m3u
