@@ -3,3 +3,9 @@ freeyx.cloudflare88.eu.org#ktff
 cloudflare.182682.xyz#宝塔迷
 speed.xn--1jq721i.cn#free
 cf.090227.xyz#cmliu
+2606:4700:85dc:1b24:85b8:255a:7798:b700#fr
+2606:4700:8390:15c7:5c64:7d69:21f5:b403#fr
+2606:4700:9aef:dbff:ae94:9471:a883:d4ba#fr
+172.67.79.221#hk
+104.26.11.122#hk
+104.20.18.194#hk
