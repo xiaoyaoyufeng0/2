@@ -19,6 +19,7 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 央视台球,http://175.11.70.200:8888/udp/239.76.254.58:9000
+央视台球,http://121.29.111.242:8888/rtp/239.253.93.231:6409
 央视台球,http://124.112.202.94:18888/rtp/238.1.79.59:4608
 风云足球,http://175.11.70.200:8888/udp/239.76.254.52:9000
 风云足球,http://124.112.202.94:18888/rtp/238.1.79.57:4592
