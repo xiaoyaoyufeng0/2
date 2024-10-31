@@ -15,9 +15,18 @@ CCTV-12社法,http://p.ytelc.com/169l/0/aikan.php?id=cctv12
 CCTV-13新闻,http://p.ytelc.com/169l/0/aikan.php?id=cctv13
 CCTV-14少儿,http://p.ytelc.com/169l/0/aikan.php?id=cctv14
 CCTV-15音乐,http://p.ytelc.com/169l/0/aikan.php?id=cctv15
+CCTV-16,http://36.109.213.192:9988/udp/238.125.5.34:5140
 CCTV-17农村,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 CHC家庭影院,http://p.ytelc.com/169l/0/aikan.php?id=chcjt
 CHC动作电影,http://p.ytelc.com/169l/0/aikan.php?id=chcdz
+央视台球,http://175.11.70.200:8888/udp/239.76.254.58:9000
+央视台球,http://121.29.111.242:8888/rtp/239.253.93.231:6409
+央视台球,http://222.169.41.210:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+央视台球,http://124.112.202.94:18888/rtp/238.1.79.59:4608
+风云足球,http://175.11.70.200:8888/udp/239.76.254.52:9000
+风云足球,http://61.55.46.35:4022/rtp/239.253.93.254:6432
+风云足球,http://121.29.111.242:8888/rtp/239.253.93.254:6432
+风云足球,http://124.112.202.94:18888/rtp/238.1.79.57:4592
 
 央视2,#genre#
 CCTV1,http://180.188.45.80:1665/migu.php?id=cctv1
