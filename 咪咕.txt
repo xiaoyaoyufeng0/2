@@ -22,6 +22,7 @@ CHC家庭影院,http://p.ytelc.com/169l/0/aikan.php?id=chcjt
 CHC动作电影,http://p.ytelc.com/169l/0/aikan.php?id=chcdz
 CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+央视台球,http://171.124.233.194:8082/udp/226.0.2.216:9640
 央视台球,http://61.55.46.35:4022/rtp/239.253.93.231:6409
 央视台球,http://113.240.138.118:8888/udp/239.76.254.58:9000
 央视台球,http://61.190.129.195:8686/rtp/238.1.79.59:4608
