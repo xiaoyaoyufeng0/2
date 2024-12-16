@@ -5,8 +5,8 @@
             "type": 3,
             "api": "csp_Feiyang",
             "url": "tv.m3u",
-            "ext": "https://uniproxy.xiaoyaoyufeng.us.kg/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/allinone;md5;https://uniproxy.xiaoyaoyufeng.us.kg/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/md5",
-            "jar": "https://uniproxy.xiaoyaoyufeng.us.kg/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "https://uniproxy.lvedong.eu.org/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/allinone;md5;https://uniproxy.lvedong.eu.org/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/md5",
+            "jar": "https://uniproxy.lvedong.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         }
     ]
 }
