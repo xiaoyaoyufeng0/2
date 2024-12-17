@@ -1,1 +1,11 @@
-https://uniproxy.lvedong.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+{
+    "lives": [
+        {
+            "name": "肥羊国内直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "tv.m3u",
+            "jar": "https://uniproxy.lvedong.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        }
+    ]
+}
