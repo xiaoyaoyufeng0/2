@@ -38,6 +38,12 @@ CCTV风云剧场 8M1080,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/
 CCTV风云足球 8M1080,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV风云音乐 4M1080,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV高尔夫网球 8M1080,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+1,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221231912/1.m3u8
+2,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221231988/1.m3u8
+3,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233754/1.m3u8
+4,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235702/1.m3u8
+5,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221236430/1.m3u8
+6,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221236432/1.m3u8
 
 
 卫视(V6),#genre#
