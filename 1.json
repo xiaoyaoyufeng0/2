@@ -5,8 +5,8 @@
             "type": 3,
             "api": "csp_Feiyang",
             "url": "tv.m3u",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/md5",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/allinone;md5;https://gh-proxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/md5",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         }
     ]
 }
