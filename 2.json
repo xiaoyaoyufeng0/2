@@ -6,7 +6,7 @@
             "api": "csp_Feiyang",
             "url": "tv.m3u",
             "ext": "",
-            "jar": "https://gh-proxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@refs/heads/main/jar/custom_spider.jar"
         }
     ]
 }
