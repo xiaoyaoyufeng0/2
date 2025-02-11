@@ -17,11 +17,11 @@
 
    {
 
-      "name": "ITV",
+      "name": "M3U",
 
       "type": 0,
 
-      "url": "https://github.cmliussss.net/raw.githubusercontent.com/xiaoyaoyufeng0/2/refs/heads/main/ITV.txt",
+      "url": "https://github.cmliussss.net/raw.githubusercontent.com/xiaoyaoyufeng0/2/refs/heads/main/fy.m3u",
 
       "epg": "http://epg.51zmt.top:8000/e.xml",
 
