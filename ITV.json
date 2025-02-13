@@ -25,7 +25,7 @@
 
       "epg": "http://epg.51zmt.top:8000/e.xml",
 
-      "logo": "http://epg.51zmt.top:8000/{name}.png",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
 
       "timeout": "3",
 
