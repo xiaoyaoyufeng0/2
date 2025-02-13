@@ -23,6 +23,8 @@
 
       "url": "https://github.cmliussss.net/raw.githubusercontent.com/xiaoyaoyufeng0/2/refs/heads/main/蜜雪冰城.m3u",
 
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+
       "timeout": "3",
 
       "playerType": 2
