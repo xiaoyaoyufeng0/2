@@ -1,0 +1,48 @@
+{
+
+  "spider": "https://github.cmliussss.net/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
+
+  "hosts": [
+    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+     "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    
+    
+  ],
+
+
+"lives": [
+
+   {
+
+      "name": "TXT",
+
+      "type": 0,
+
+      "url": "https://github.cmliussss.net/raw.githubusercontent.com/xiaoyaoyufeng0/2/refs/heads/main/蜜雪冰城.txt",
+
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+
+      "timeout": "3",
+
+      "playerType": 2
+
+    }
+    
+       
+  ],
+
+  "doh": [],
+    
+  "rules": [],
+
+  "parses": [],
+
+  "flags": [],
+
+  "wallpaper": ""
+
+}
+ 
