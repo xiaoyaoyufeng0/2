@@ -25,8 +25,6 @@
 
       "epg": "http://epg.51zmt.top:8000/e.xml",
 
-      "ua": "okhttp/3.15",
-
       "timeout": "3",
 
       "playerType": 2
