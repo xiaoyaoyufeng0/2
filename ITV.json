@@ -25,6 +25,8 @@
 
       "epg": "http://epg.51zmt.top:8000/e.xml",
 
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+
       "timeout": "3",
 
       "playerType": 2
